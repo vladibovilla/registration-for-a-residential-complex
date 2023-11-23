@@ -1,0 +1,13 @@
+Hola chicos!
+
+Los archivos abrir y cerrar conexion son para realizar esa tarea en la base de datos con el codigo php (lo dejo en claro por si acaso, igualmente
+el codigo esta documentado).
+Al iniciar el proyecto, dara error ya que no encontrara la base de datos "propietario" por obvias razones.
+Por lo que en el PHPMyAdmin, hay que darle en "nueva base de datos" colocar de nombre "propietario" y al tenerla creada, dirigirnos al campo
+"importar" dentro de esa base de datos recien creada. Y en esta carpeta estara la base de datos "propietario.sql" del cual se debera subir al
+phpMyAdmin para asi, poder tener la base de dato y acceso al programa que se creo del conjunto residencial.
+
+Este proyecto lo subire a mi Github, cualquier detalle o aportacion hacia el mismo lo recibire de la mejor manera. Feliz navidad y
+prospero año nuevo 2024
+
+Att. Vladimir Bocaranda
